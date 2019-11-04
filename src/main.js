@@ -15,3 +15,5 @@ new Vue({
   router,
   render: h => h(App)
 }).$mount('#app')
+
+// 11.3初始化项目已完成------下一步该登录页面
