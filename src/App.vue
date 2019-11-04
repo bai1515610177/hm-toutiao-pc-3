@@ -1,5 +1,8 @@
 <template>
-  <div>xxx<el-button type='success'>成功按钮</el-button></div>
+  <div id='app'>
+    <!-- 挂载 -->
+    <router-view></router-view>
+  </div>
 </template>
 
 <script>
